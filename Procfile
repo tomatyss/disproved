@@ -1,0 +1,1 @@
+web: gunicorn disproved.wsgi:application --log-file -
